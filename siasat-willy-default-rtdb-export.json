@@ -1,0 +1,142 @@
+{
+  "krs": {
+    "672022001": {
+      "MK001": {
+        "nilai": "A"
+      },
+      "MK002": {
+        "nilai": "B"
+      },
+      "TC777": {
+        "nilai": "A"
+      },
+      "TC888": {
+        "nilai": "C"
+      },
+      "willy123": {
+        "nilai": "B"
+      },
+      "willy321": {
+        "nilai": "C"
+      }
+    },
+    "672022002": {
+      "MK001": {
+        "nilai": "E"
+      },
+      "MK002": {
+        "nilai": "B"
+      }
+    }
+  },
+  "matakuliah": {
+    "MK001": {
+      "dosen_pengampu": "67002",
+      "jadwal": {
+        "hari": "Senin",
+        "jam_mulai": "08:00",
+        "jam_selesai": "10:00",
+        "ruangan": "Lab RPL"
+      },
+      "nama": "Pemrograman Mobile",
+      "sks": 3
+    },
+    "MK002": {
+      "dosen_pengampu": "67002",
+      "jadwal": {
+        "hari": "Rabu",
+        "jam_mulai": "10:00",
+        "jam_selesai": "12:00",
+        "ruangan": "Lab Basis Data"
+      },
+      "nama": "Basis Data",
+      "sks": 2
+    },
+    "TC111": {
+      "id": "",
+      "jadwal": {
+        "hari": "Kamis",
+        "jam_mulai": "15:00",
+        "jam_selesai": "18:00",
+        "ruangan": "401"
+      },
+      "nama": "Pelatihan Kepemimpinan",
+      "sks": 4
+    },
+    "TC777": {
+      "dosen_pengampu": "67003",
+      "id": "",
+      "jadwal": {
+        "hari": "Senin",
+        "jam_mulai": "17:00",
+        "jam_selesai": "20:00",
+        "ruangan": "FTI400"
+      },
+      "nama": "Pemrograman Mobile",
+      "sks": 3
+    },
+    "TC888": {
+      "dosen_pengampu": "67003",
+      "id": "",
+      "jadwal": {
+        "hari": "Sabtu",
+        "jam_mulai": "23:00",
+        "jam_selesai": "00:00",
+        "ruangan": "FTI900"
+      },
+      "nama": "Test Matkul",
+      "sks": 2
+    },
+    "willy123": {
+      "dosen_pengampu": "67003",
+      "id": "",
+      "jadwal": {
+        "hari": "Senin",
+        "jam_mulai": "10:00",
+        "jam_selesai": "12:00",
+        "ruangan": "FTI001"
+      },
+      "nama": "Willy",
+      "sks": 10
+    },
+    "willy321": {
+      "dosen_pengampu": "67002",
+      "id": "",
+      "jadwal": {
+        "hari": "Selasa",
+        "jam_mulai": "12",
+        "jam_selesai": "14",
+        "ruangan": "307"
+      },
+      "nama": "Belajar Willy",
+      "sks": 3
+    }
+  },
+  "users": {
+    "67001": {
+      "nama": "Kaprogdi",
+      "password": "fti001",
+      "role": "kaprogdi"
+    },
+    "67002": {
+      "nama": "Dosen 1",
+      "password": "67002",
+      "role": "dosen"
+    },
+    "67003": {
+      "nama": "Dosen 2",
+      "password": "67003",
+      "role": "dosen"
+    },
+    "672022001": {
+      "nama": "Mahasiswa 1",
+      "password": "672022001",
+      "role": "mahasiswa"
+    },
+    "672022002": {
+      "nama": "Mahasiswa 2",
+      "password": "672022002",
+      "role": "mahasiswa"
+    }
+  }
+}
